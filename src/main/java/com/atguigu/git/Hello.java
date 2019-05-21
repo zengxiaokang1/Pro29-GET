@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("hello git!!!!");
 		System.out.println("hello git!!!!");
 		System.out.println("hello git!!!!");
-		System.out.println("hello git!!!!");
+		System.out.println("hello git!!!!");//edit by 29
 		System.out.println("hello git!!!!");
 		System.out.println("hello git!!!!");
 		System.out.println("hello git!!!!");
